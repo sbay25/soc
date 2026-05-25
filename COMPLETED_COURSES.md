@@ -28,7 +28,7 @@ This page documents all completed cybersecurity and SOC-related courses and cert
 - IT Security Basis for Corporates
 - Building Malware Analysis Lab
 
-**Certification URL:** [View Certificate](https://app.letsdefend.io/certificate/show/f504d9c5-c8c4-4127-b5ba-9507b160691f1)
+**Certification URL:** [View Certificate](https://app.letsdefend.io/certificate/show/f504d9c5-c8c4-4127-b5ba-9507b160691f)
 
 ---
 
@@ -104,4 +104,3 @@ This page documents all completed cybersecurity and SOC-related courses and cert
 
 - [SIEM Engineer Certificate Details](./SIEM-Engineer-Certificate.md)
 - [SOC Analyst Certification Details](./SOC-Analyst)
-
